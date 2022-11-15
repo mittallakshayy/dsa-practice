@@ -27,7 +27,7 @@ using namespace std;
 
 // After 1st rotation - {9, 1, 3, 5, 7}
 // After 2nd rotation - {7, 9, 1, 3, 5}
-
+// This solution is assuming that k is less than n. If that is not the case then new k will be k%n
 // This was the brute force approach thought by me. There possible 
 // could be a better solution. 
 
